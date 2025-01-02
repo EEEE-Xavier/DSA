@@ -1,4 +1,3 @@
-#Xavier Foo Ming Jun, 234651F, SF2302
 class StockStack():
     # Creates an empty stack.
     def __init__(self):

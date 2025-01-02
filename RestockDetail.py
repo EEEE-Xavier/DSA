@@ -1,4 +1,3 @@
-#Xavier Foo Ming Jun, 234651F, SF2302
 class RestockDetail():
     def __init__(self, isbn, quantity):
         self.__isbn = isbn

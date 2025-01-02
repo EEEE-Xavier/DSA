@@ -1,4 +1,3 @@
-#Xavier Foo Ming Jun, 234651F, SF2302
 import Book
 
 def populateData():
